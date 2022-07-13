@@ -45,7 +45,7 @@
  
  <div>
 
-  ![Snake animation](https://github.com/adriano/adriano-ssousa/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/adriano-ssousa/adriano-ssousa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
 
