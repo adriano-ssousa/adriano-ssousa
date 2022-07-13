@@ -1,10 +1,14 @@
 ##
-## 👋 Hi, I’m @adriano-ssousa
+## <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Adriano Sousa</h1>
 
+
+
+<!--
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning Html, Css and Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
+-->
 
 ##
 
