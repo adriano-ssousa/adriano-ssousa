@@ -1,5 +1,5 @@
 ##
-## <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Adriano Sousa</h1>
+## <h1 left="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Adriano Sousa !</h1>
 
 
 
@@ -20,7 +20,7 @@
   
   ##
   
-  <div style="display: inline_block" align="justify"><br>
+  <div style="display: inline_block" align="left"><br>
   <img align="center" alt="adriano-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="adriano-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="adriano-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -52,6 +52,8 @@
   ![Snake animation](https://github.com/adriano-ssousa/adriano-ssousa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
+ ##
 
 <!---
 adriano-ssousa/adriano-ssousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
