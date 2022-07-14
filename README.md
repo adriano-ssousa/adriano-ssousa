@@ -2,6 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Adriano Sousa !</h1>
 
 
+<h2 align="center">🌱 I am currently studying information systems graduation.</h2>
 
 <!--
 - 👀 I’m interested in ...
@@ -18,16 +19,14 @@
 </div>
   
  ##
-  <!---
-
+ 
+  <!--
   <img align="center" alt="adriano-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
   <img align="center" alt="adriano-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> 
   <img<img align="center" alt="adriano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="adriano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="adriano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  -->
-
-  <!--
+  
 <div> 
   <a href="https://instagram.com/adriano_ssousa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
@@ -37,9 +36,9 @@
   -->
  
  <div align="center">
-
-  ![Snake animation](https://github.com/adriano-ssousa/adriano-ssousa/blob/output/github-contribution-grid-snake.svg)
  
+  ![Snake animation](https://github.com/adriano-ssousa/adriano-ssousa/blob/output/github-contribution-grid-snake.svg) 
+  
 </div>
 
 <div style="display: inline_block" align="center">
