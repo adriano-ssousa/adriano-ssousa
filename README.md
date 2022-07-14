@@ -1,5 +1,5 @@
-##
-## <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Adriano Sousa !</h1>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Adriano Sousa !</h1>
 
 
 
@@ -10,23 +10,14 @@
 - 📫 How to reach me ...
 -->
 
-##
 
 <div align="center">
   <a href="https://github.com/adriano-ssousa">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adriano-ssousa&show_icons=false&theme=green&include_all_commits=true&count_private=true"/>&nbsp
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=adriano-ssousa&show_icons=false&theme=green&include_all_commits=true&count_private=true"/> &nbsp
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adriano-ssousa&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
-  ##
-  
-  <div style="display: inline_block" align="center"><br>
-  <img align="center" alt="adriano-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="adriano-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="adriano-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  
-  </div>
-  
+ ##
   <!---
 
   <img align="center" alt="adriano-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/639956127056134178/890373478988013628/Publicacoes_Instagram_1_1.png?width=676&height=676">
@@ -34,9 +25,7 @@
   <img<img align="center" alt="adriano-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="adriano-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="adriano-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
-  
   -->
-##
 
   <!--
 <div> 
@@ -52,8 +41,14 @@
   ![Snake animation](https://github.com/adriano-ssousa/adriano-ssousa/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+
+<div style="display: inline_block" align="center">
+  <img align="center" alt="adriano-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="adriano-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="adriano-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </div>
   
- ##
+ #
 
 <!---
 adriano-ssousa/adriano-ssousa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
